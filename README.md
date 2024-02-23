@@ -1,1 +1,2 @@
-# Flask-E-Commerce-API
+# Flask-E-Commerce-API with MySQL
+Download setup
