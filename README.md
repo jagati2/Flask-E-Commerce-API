@@ -47,6 +47,7 @@ Step-5:
 # POST /cart: Adds a product to the cart.
 
 ![Screenshot 2024-02-23 192417](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/be0199d2-3796-47cd-b0e7-32329bcf3a2b)
+# in mysql its added
 ![Screenshot 2024-02-23 192619](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/a7360673-c8c5-493c-9a5d-76dcc319f5b4)
 
 
@@ -69,10 +70,27 @@ Step-5:
 ![Screenshot 2024-02-23 195227](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/77fe5429-c3a0-4b0e-bbf1-48489790d8da)
 # in mysql its added
 ![Screenshot 2024-02-23 195240](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/546f874a-a7b6-4f8e-8265-7145fce7d6ac)
+# update the product
+![Screenshot 2024-02-23 200250](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/07f0825e-362f-40e2-87e7-8ee7db1ecd38)
+# in mysql id=1 is updated
+![Screenshot 2024-02-23 200259](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/568dd31e-8c91-48e6-9a37-a6da47f1c7dc)
 
+# delete a product by id
+![Screenshot 2024-02-23 200633](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/1c89c801-df6f-4dd6-80e8-2729a535474e)
+# in mysql id=4 is deleted
+![Screenshot 2024-02-23 200643](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/ccb1bbc9-647e-466f-83c7-645623a93588)
+
+# get specific cart item by id
+![Screenshot 2024-02-23 200842](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/5f8fd3b9-9db9-4e0e-9cc3-5a722af33da3)
 
 # update cart item
-![Screenshot 2024-02-23 194742](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/6ac54a76-4d28-4302-a082-43bafee4a434)
+![Screenshot 2024-02-23 201238](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/4ae33d12-1fa6-4ec3-9469-2078eeefe395)
+![Screenshot 2024-02-23 201251](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/09d25e02-d912-41cd-bf98-02a1050a76de)
+
+
+
+
+
 
 
 
