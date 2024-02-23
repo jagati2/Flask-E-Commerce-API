@@ -11,6 +11,9 @@ Step-2: Installing Dependencies
 
 Step-3: Running application Windows:
 
-  > $env:PYTHONDONTWRITEBYTECODE=1;$env:FLASK_APP="app";$env:FLASK_ENV = "development"
-  > flask run
+   $env:PYTHONDONTWRITEBYTECODE=1;$env:FLASK_APP="app";$env:FLASK_ENV = "development"
+   
+Step-4:
+
+   flask run
 
