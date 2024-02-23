@@ -20,8 +20,13 @@ Step-4: Connect MySQL with the code editor and create database=flask_ecommerce a
 Step-5:
 
    flask run
-
    
+Step-6:
+
+   open postman application and paste the link with respective endpoints
+
+
+
 # Output 
 
 # product table in mysql
