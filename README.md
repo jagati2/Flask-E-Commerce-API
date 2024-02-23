@@ -67,6 +67,7 @@ Step-5:
 
 # adds a product to the table
 ![Screenshot 2024-02-23 195227](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/77fe5429-c3a0-4b0e-bbf1-48489790d8da)
+# in mysql its added
 ![Screenshot 2024-02-23 195240](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/546f874a-a7b6-4f8e-8265-7145fce7d6ac)
 
 
