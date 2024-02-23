@@ -47,6 +47,8 @@ Step-5:
 # POST /cart: Adds a product to the cart.
 
 ![Screenshot 2024-02-23 192417](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/be0199d2-3796-47cd-b0e7-32329bcf3a2b)
+![Screenshot 2024-02-23 192619](https://github.com/jagati2/Flask-E-Commerce-API/assets/105737471/a7360673-c8c5-493c-9a5d-76dcc319f5b4)
+
 
 # GET /cart: Retrieves the cart items.
 
