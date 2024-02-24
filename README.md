@@ -1,4 +1,9 @@
 # Flask-E-Commerce-API with MySQL
+# Files navigation 
+
+  controllers folder has product_cartitem_controller file this consists of API endpoints.
+  models folder has cart_item_model and product_model and the respective queries/ functions/ CRUD operations related code is in    these files
+  
 # Download setup
 Step-1: Creating & activating venv Windows:
 
